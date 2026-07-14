@@ -1,0 +1,82 @@
+[
+    {
+        "student_id": 1,
+        "student_name": "Student_1",
+        "job_id": 117,
+        "job_title": "Computer Vision Engineer",
+        "match_score": 47.13,
+        "explanation": "Student_1 matches the role 'Computer Vision Engineer' because 3 required skills are present."
+    },
+    {
+        "student_id": 2,
+        "student_name": "Student_2",
+        "job_id": 120,
+        "job_title": "Python Developer",
+        "match_score": 45.56,
+        "explanation": "Student_2 matches the role 'Python Developer' because 2 required skills are present."
+    },
+    {
+        "student_id": 3,
+        "student_name": "Student_3",
+        "job_id": 118,
+        "job_title": "Frontend Developer",
+        "match_score": 57.21,
+        "explanation": "Student_3 matches the role 'Frontend Developer' because 3 required skills are present."
+    },
+    {
+        "student_id": 4,
+        "student_name": "Student_4",
+        "job_id": 129,
+        "job_title": "Backend Developer",
+        "match_score": 57.46,
+        "explanation": "Student_4 matches the role 'Backend Developer' because 2 required skills are present."
+    },
+    {
+        "student_id": 5,
+        "student_name": "Student_5",
+        "job_id": 102,
+        "job_title": "Python Developer",
+        "match_score": 58.02,
+        "explanation": "Student_5 matches the role 'Python Developer' because 3 required skills are present."
+    },
+    {
+        "student_id": 6,
+        "student_name": "Student_6",
+        "job_id": 111,
+        "job_title": "Frontend Developer",
+        "match_score": 60.62,
+        "explanation": "Student_6 matches the role 'Frontend Developer' because 3 required skills are present."
+    },
+    {
+        "student_id": 7,
+        "student_name": "Student_7",
+        "job_id": 123,
+        "job_title": "Frontend Developer",
+        "match_score": 64.71,
+        "explanation": "Student_7 matches the role 'Frontend Developer' because 4 required skills are present."
+    },
+    {
+        "student_id": 8,
+        "student_name": "Student_8",
+        "job_id": 112,
+        "job_title": "AI Research Intern",
+        "match_score": 68.32,
+        "explanation": "Student_8 matches the role 'AI Research Intern' because 3 required skills are present."
+    },
+    {
+        "student_id": 9,
+        "student_name": "Student_9",
+        "job_id": 119,
+        "job_title": "Data Analyst",
+        "match_score": 50.51,
+        "explanation": "Student_9 matches the role 'Data Analyst' because 2 required skills are present."
+    },
+    {
+        "student_id": 10,
+        "student_name": "Student_10",
+        "job_id": 129,
+        "job_title": "Backend Developer",
+        "match_score": 51.88,
+        "explanation": "Student_10 matches the role 'Backend Developer' because 2 required skills are present."
+    }
+]

@@ -1,0 +1,7 @@
+Model Evaluation Metrics
+========================
+
+Accuracy            : 0.9667
+Precision           : 1.0000
+Recall              : 0.9000
+False Positive Rate : 0.0000

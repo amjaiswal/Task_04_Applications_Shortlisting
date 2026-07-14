@@ -1,0 +1,101 @@
+student_id,student_name,job_id,job_title,match_score,explanation
+1,Student_1,117,Computer Vision Engineer,47.13,Student_1 matches the role 'Computer Vision Engineer' because 3 required skills are present.
+2,Student_2,120,Python Developer,45.56,Student_2 matches the role 'Python Developer' because 2 required skills are present.
+3,Student_3,118,Frontend Developer,57.21,Student_3 matches the role 'Frontend Developer' because 3 required skills are present.
+4,Student_4,129,Backend Developer,57.46,Student_4 matches the role 'Backend Developer' because 2 required skills are present.
+5,Student_5,102,Python Developer,58.02,Student_5 matches the role 'Python Developer' because 3 required skills are present.
+6,Student_6,111,Frontend Developer,60.62,Student_6 matches the role 'Frontend Developer' because 3 required skills are present.
+7,Student_7,123,Frontend Developer,64.71,Student_7 matches the role 'Frontend Developer' because 4 required skills are present.
+8,Student_8,112,AI Research Intern,68.32,Student_8 matches the role 'AI Research Intern' because 3 required skills are present.
+9,Student_9,119,Data Analyst,50.51,Student_9 matches the role 'Data Analyst' because 2 required skills are present.
+10,Student_10,129,Backend Developer,51.88,Student_10 matches the role 'Backend Developer' because 2 required skills are present.
+11,Student_11,121,Data Scientist,67.24,Student_11 matches the role 'Data Scientist' because 3 required skills are present.
+12,Student_12,103,Software Engineer,65.78,Student_12 matches the role 'Software Engineer' because 4 required skills are present.
+13,Student_13,109,Frontend Developer,58.22,Student_13 matches the role 'Frontend Developer' because 3 required skills are present.
+14,Student_14,103,Software Engineer,59.25,Student_14 matches the role 'Software Engineer' because 3 required skills are present.
+15,Student_15,112,AI Research Intern,52.22,Student_15 matches the role 'AI Research Intern' because 2 required skills are present.
+16,Student_16,105,Python Developer,39.67,Student_16 matches the role 'Python Developer' because 1 required skills are present.
+17,Student_17,115,AI Research Intern,47.0,Student_17 matches the role 'AI Research Intern' because 2 required skills are present.
+18,Student_18,115,AI Research Intern,57.37,Student_18 matches the role 'AI Research Intern' because 2 required skills are present.
+19,Student_19,114,Data Scientist,40.52,Student_19 matches the role 'Data Scientist' because 2 required skills are present.
+20,Student_20,116,Data Scientist,57.74,Student_20 matches the role 'Data Scientist' because 3 required skills are present.
+21,Student_21,112,AI Research Intern,50.31,Student_21 matches the role 'AI Research Intern' because 2 required skills are present.
+22,Student_22,114,Data Scientist,49.2,Student_22 matches the role 'Data Scientist' because 3 required skills are present.
+23,Student_23,124,Software Engineer,50.86,Student_23 matches the role 'Software Engineer' because 3 required skills are present.
+24,Student_24,109,Frontend Developer,45.69,Student_24 matches the role 'Frontend Developer' because 3 required skills are present.
+25,Student_25,119,Data Analyst,57.96,Student_25 matches the role 'Data Analyst' because 3 required skills are present.
+26,Student_26,111,Frontend Developer,60.26,Student_26 matches the role 'Frontend Developer' because 3 required skills are present.
+27,Student_27,109,Frontend Developer,60.93,Student_27 matches the role 'Frontend Developer' because 4 required skills are present.
+28,Student_28,129,Backend Developer,79.0,Student_28 matches the role 'Backend Developer' because 4 required skills are present.
+29,Student_29,126,Frontend Developer,55.69,Student_29 matches the role 'Frontend Developer' because 3 required skills are present.
+30,Student_30,125,AI ML Engineer,78.37,Student_30 matches the role 'AI ML Engineer' because 4 required skills are present.
+31,Student_31,122,Software Engineer,47.85,Student_31 matches the role 'Software Engineer' because 3 required skills are present.
+32,Student_32,115,AI Research Intern,60.89,Student_32 matches the role 'AI Research Intern' because 3 required skills are present.
+33,Student_33,121,Data Scientist,60.3,Student_33 matches the role 'Data Scientist' because 3 required skills are present.
+34,Student_34,104,AI ML Engineer,57.03,Student_34 matches the role 'AI ML Engineer' because 3 required skills are present.
+35,Student_35,105,Python Developer,77.52,Student_35 matches the role 'Python Developer' because 4 required skills are present.
+36,Student_36,125,AI ML Engineer,72.27,Student_36 matches the role 'AI ML Engineer' because 3 required skills are present.
+37,Student_37,119,Data Analyst,63.12,Student_37 matches the role 'Data Analyst' because 3 required skills are present.
+38,Student_38,101,Data Scientist,54.87,Student_38 matches the role 'Data Scientist' because 3 required skills are present.
+39,Student_39,123,Frontend Developer,49.78,Student_39 matches the role 'Frontend Developer' because 3 required skills are present.
+40,Student_40,105,Python Developer,68.58,Student_40 matches the role 'Python Developer' because 4 required skills are present.
+41,Student_41,101,Data Scientist,63.18,Student_41 matches the role 'Data Scientist' because 4 required skills are present.
+42,Student_42,115,AI Research Intern,48.83,Student_42 matches the role 'AI Research Intern' because 2 required skills are present.
+43,Student_43,111,Frontend Developer,43.8,Student_43 matches the role 'Frontend Developer' because 3 required skills are present.
+44,Student_44,104,AI ML Engineer,65.18,Student_44 matches the role 'AI ML Engineer' because 3 required skills are present.
+45,Student_45,111,Frontend Developer,51.17,Student_45 matches the role 'Frontend Developer' because 3 required skills are present.
+46,Student_46,128,ML Engineer,43.71,Student_46 matches the role 'ML Engineer' because 3 required skills are present.
+47,Student_47,103,Software Engineer,61.24,Student_47 matches the role 'Software Engineer' because 3 required skills are present.
+48,Student_48,113,ML Engineer,54.68,Student_48 matches the role 'ML Engineer' because 3 required skills are present.
+49,Student_49,121,Data Scientist,49.35,Student_49 matches the role 'Data Scientist' because 2 required skills are present.
+50,Student_50,121,Data Scientist,57.52,Student_50 matches the role 'Data Scientist' because 3 required skills are present.
+51,Student_51,103,Software Engineer,50.5,Student_51 matches the role 'Software Engineer' because 3 required skills are present.
+52,Student_52,103,Software Engineer,59.89,Student_52 matches the role 'Software Engineer' because 3 required skills are present.
+53,Student_53,101,Data Scientist,72.63,Student_53 matches the role 'Data Scientist' because 4 required skills are present.
+54,Student_54,107,Software Engineer,57.37,Student_54 matches the role 'Software Engineer' because 3 required skills are present.
+55,Student_55,117,Computer Vision Engineer,65.88,Student_55 matches the role 'Computer Vision Engineer' because 4 required skills are present.
+56,Student_56,115,AI Research Intern,57.26,Student_56 matches the role 'AI Research Intern' because 3 required skills are present.
+57,Student_57,105,Python Developer,69.59,Student_57 matches the role 'Python Developer' because 4 required skills are present.
+58,Student_58,124,Software Engineer,59.86,Student_58 matches the role 'Software Engineer' because 4 required skills are present.
+59,Student_59,130,Software Engineer,48.96,Student_59 matches the role 'Software Engineer' because 3 required skills are present.
+60,Student_60,110,Python Developer,46.78,Student_60 matches the role 'Python Developer' because 2 required skills are present.
+61,Student_61,120,Python Developer,58.87,Student_61 matches the role 'Python Developer' because 3 required skills are present.
+62,Student_62,110,Python Developer,38.37,Student_62 matches the role 'Python Developer' because 2 required skills are present.
+63,Student_63,117,Computer Vision Engineer,62.67,Student_63 matches the role 'Computer Vision Engineer' because 4 required skills are present.
+64,Student_64,127,AI Research Intern,58.76,Student_64 matches the role 'AI Research Intern' because 4 required skills are present.
+65,Student_65,118,Frontend Developer,52.11,Student_65 matches the role 'Frontend Developer' because 3 required skills are present.
+66,Student_66,102,Python Developer,59.11,Student_66 matches the role 'Python Developer' because 3 required skills are present.
+67,Student_67,115,AI Research Intern,52.95,Student_67 matches the role 'AI Research Intern' because 3 required skills are present.
+68,Student_68,125,AI ML Engineer,66.46,Student_68 matches the role 'AI ML Engineer' because 4 required skills are present.
+69,Student_69,116,Data Scientist,75.85,Student_69 matches the role 'Data Scientist' because 4 required skills are present.
+70,Student_70,115,AI Research Intern,52.85,Student_70 matches the role 'AI Research Intern' because 2 required skills are present.
+71,Student_71,111,Frontend Developer,58.21,Student_71 matches the role 'Frontend Developer' because 3 required skills are present.
+72,Student_72,113,ML Engineer,66.14,Student_72 matches the role 'ML Engineer' because 3 required skills are present.
+73,Student_73,103,Software Engineer,55.43,Student_73 matches the role 'Software Engineer' because 3 required skills are present.
+74,Student_74,101,Data Scientist,66.21,Student_74 matches the role 'Data Scientist' because 3 required skills are present.
+75,Student_75,112,AI Research Intern,55.68,Student_75 matches the role 'AI Research Intern' because 3 required skills are present.
+76,Student_76,102,Python Developer,61.01,Student_76 matches the role 'Python Developer' because 4 required skills are present.
+77,Student_77,119,Data Analyst,54.73,Student_77 matches the role 'Data Analyst' because 3 required skills are present.
+78,Student_78,109,Frontend Developer,46.61,Student_78 matches the role 'Frontend Developer' because 3 required skills are present.
+79,Student_79,130,Software Engineer,39.96,Student_79 matches the role 'Software Engineer' because 2 required skills are present.
+80,Student_80,116,Data Scientist,65.04,Student_80 matches the role 'Data Scientist' because 3 required skills are present.
+81,Student_81,103,Software Engineer,65.82,Student_81 matches the role 'Software Engineer' because 4 required skills are present.
+82,Student_82,117,Computer Vision Engineer,44.74,Student_82 matches the role 'Computer Vision Engineer' because 2 required skills are present.
+83,Student_83,111,Frontend Developer,48.17,Student_83 matches the role 'Frontend Developer' because 3 required skills are present.
+84,Student_84,127,AI Research Intern,70.23,Student_84 matches the role 'AI Research Intern' because 4 required skills are present.
+85,Student_85,121,Data Scientist,50.59,Student_85 matches the role 'Data Scientist' because 2 required skills are present.
+86,Student_86,101,Data Scientist,59.64,Student_86 matches the role 'Data Scientist' because 3 required skills are present.
+87,Student_87,129,Backend Developer,62.56,Student_87 matches the role 'Backend Developer' because 3 required skills are present.
+88,Student_88,125,AI ML Engineer,54.05,Student_88 matches the role 'AI ML Engineer' because 3 required skills are present.
+89,Student_89,120,Python Developer,60.05,Student_89 matches the role 'Python Developer' because 4 required skills are present.
+90,Student_90,103,Software Engineer,70.15,Student_90 matches the role 'Software Engineer' because 4 required skills are present.
+91,Student_91,111,Frontend Developer,47.16,Student_91 matches the role 'Frontend Developer' because 2 required skills are present.
+92,Student_92,121,Data Scientist,59.69,Student_92 matches the role 'Data Scientist' because 3 required skills are present.
+93,Student_93,106,Software Engineer,56.8,Student_93 matches the role 'Software Engineer' because 3 required skills are present.
+94,Student_94,104,AI ML Engineer,57.03,Student_94 matches the role 'AI ML Engineer' because 3 required skills are present.
+95,Student_95,124,Software Engineer,54.98,Student_95 matches the role 'Software Engineer' because 4 required skills are present.
+96,Student_96,114,Data Scientist,46.59,Student_96 matches the role 'Data Scientist' because 3 required skills are present.
+97,Student_97,104,AI ML Engineer,94.37,Student_97 matches the role 'AI ML Engineer' because 5 required skills are present.
+98,Student_98,117,Computer Vision Engineer,53.71,Student_98 matches the role 'Computer Vision Engineer' because 3 required skills are present.
+99,Student_99,126,Frontend Developer,56.33,Student_99 matches the role 'Frontend Developer' because 3 required skills are present.
+100,Student_100,113,ML Engineer,64.02,Student_100 matches the role 'ML Engineer' because 3 required skills are present.

@@ -1,0 +1,31 @@
+job_id,job_title,required_skills,min_experience
+101,Data Scientist,"Python, Statistics, Pandas, NumPy, SQL, OpenCV",1
+102,Python Developer,"Python, FastAPI, Docker, Git, Pandas, Flask",5
+103,Software Engineer,"Java, Git, Linux, MySQL, Machine Learning, Spring Boot",3
+104,AI ML Engineer,"Python, Machine Learning, Flask, Scikit-learn, SQL, FastAPI",1
+105,Python Developer,"Python, FastAPI, Docker, Git, Java, Power BI",0
+106,Software Engineer,"Java, Git, Linux, MySQL, Pandas, Excel",5
+107,Software Engineer,"Java, Git, Linux, MySQL, Docker, NumPy",3
+108,AI Research Intern,"Python, PyTorch, Deep Learning, Statistics, OpenCV, SQL",1
+109,Frontend Developer,"React, JavaScript, HTML, CSS, PyTorch, Scikit-learn",1
+110,Python Developer,"Python, FastAPI, Docker, Git, YOLO, Flask",0
+111,Frontend Developer,"React, JavaScript, HTML, CSS, Deep Learning, OpenCV",2
+112,AI Research Intern,"Python, PyTorch, Deep Learning, Statistics, OpenCV, Machine Learning",5
+113,ML Engineer,"Python, TensorFlow, Scikit-learn, Docker, Spring Boot, Flask",3
+114,Data Scientist,"Python, Statistics, Pandas, NumPy, Java, YOLO",5
+115,AI Research Intern,"Python, PyTorch, Deep Learning, Statistics, Git, Spring Boot",1
+116,Data Scientist,"Python, Statistics, Pandas, NumPy, Machine Learning, Excel",1
+117,Computer Vision Engineer,"Python, OpenCV, YOLO, Deep Learning, Flask, TensorFlow",0
+118,Frontend Developer,"React, JavaScript, HTML, CSS, Scikit-learn, Git",5
+119,Data Analyst,"SQL, Excel, Power BI, Python, NumPy, Docker",2
+120,Python Developer,"Python, FastAPI, Docker, Git, Statistics, PyTorch",5
+121,Data Scientist,"Python, Statistics, Pandas, NumPy, MySQL, Power BI",1
+122,Software Engineer,"Java, Git, Linux, MySQL, NumPy, FastAPI",3
+123,Frontend Developer,"React, JavaScript, HTML, CSS, Scikit-learn, Excel",5
+124,Software Engineer,"Java, Git, Linux, MySQL, NumPy, Statistics",2
+125,AI ML Engineer,"Python, Machine Learning, Flask, Scikit-learn, OpenCV, Deep Learning",2
+126,Frontend Developer,"React, JavaScript, HTML, CSS, Scikit-learn, Machine Learning",1
+127,AI Research Intern,"Python, PyTorch, Deep Learning, Statistics, Docker, Scikit-learn",5
+128,ML Engineer,"Python, TensorFlow, Scikit-learn, Docker, React, Excel",3
+129,Backend Developer,"Java, Spring Boot, MySQL, Git, Scikit-learn, Flask",1
+130,Software Engineer,"Java, Git, Linux, MySQL, CSS, Scikit-learn",5

@@ -1,0 +1,101 @@
+student_id,name,skills,experience,education
+1,Student_1,"HTML, YOLO, OpenCV, NumPy, Flask, React, Linux",0,B.Tech
+2,Student_2,"Flask, Java, FastAPI, Statistics",5,M.Sc
+3,Student_3,"YOLO, CSS, Git, React",2,B.Tech
+4,Student_4,"Spring Boot, JavaScript, Excel, Scikit-learn",5,B.Sc
+5,Student_5,"TensorFlow, Docker, FastAPI, Git",0,B.Sc
+6,Student_6,"React, Deep Learning, Java, TensorFlow, CSS",1,M.Tech
+7,Student_7,"Excel, FastAPI, JavaScript, React, Python, CSS",2,M.Sc
+8,Student_8,"Deep Learning, OpenCV, Statistics, TensorFlow",1,B.Tech
+9,Student_9,"HTML, Machine Learning, Power BI, Linux, Excel",4,M.Tech
+10,Student_10,"Spring Boot, Linux, JavaScript, FastAPI, Scikit-learn",4,M.Sc
+11,Student_11,"JavaScript, Excel, Power BI, MySQL, Pandas",5,B.Sc
+12,Student_12,"Spring Boot, Java, OpenCV, Git, React, MySQL, Deep Learning",1,M.Tech
+13,Student_13,"PyTorch, Python, HTML, JavaScript",1,M.Tech
+14,Student_14,"Machine Learning, MySQL, Java, SQL",1,B.Tech
+15,Student_15,"PyTorch, Machine Learning, React, NumPy",2,M.Sc
+16,Student_16,"JavaScript, Flask, Power BI, HTML, Linux",1,M.Sc
+17,Student_17,"Pandas, Deep Learning, Excel, Spring Boot, Docker, OpenCV, MySQL",3,M.Sc
+18,Student_18,"Spring Boot, Java, Deep Learning, SQL",3,B.Sc
+19,Student_19,"NumPy, Pandas, JavaScript, Git",1,M.Sc
+20,Student_20,"Scikit-learn, Git, NumPy, Machine Learning, Statistics",4,B.Tech
+21,Student_21,"Java, JavaScript, Python, Machine Learning",1,M.Tech
+22,Student_22,"Linux, Statistics, Pandas, YOLO, SQL, FastAPI, MySQL",0,M.Sc
+23,Student_23,"Statistics, Git, TensorFlow, Docker, JavaScript, Linux",1,M.Tech
+24,Student_24,"Pandas, SQL, HTML, JavaScript, Excel, PyTorch",0,B.Tech
+25,Student_25,"React, Statistics, FastAPI, SQL, Excel, Machine Learning, Power BI",0,B.Tech
+26,Student_26,"YOLO, Deep Learning, HTML, NumPy, CSS",0,B.Tech
+27,Student_27,"Spring Boot, HTML, Excel, React, PyTorch, Scikit-learn, Pandas",5,B.Sc
+28,Student_28,"Scikit-learn, YOLO, Flask, Spring Boot, Java",2,M.Sc
+29,Student_29,"Excel, Machine Learning, Python, Git, CSS, HTML",0,B.Tech
+30,Student_30,"React, Scikit-learn, Flask, OpenCV, Machine Learning",1,B.Sc
+31,Student_31,"FastAPI, Git, JavaScript, MySQL, TensorFlow, CSS",5,B.Tech
+32,Student_32,"Spring Boot, Deep Learning, Flask, Scikit-learn, Excel, Statistics",5,M.Tech
+33,Student_33,"TensorFlow, CSS, Pandas, MySQL, PyTorch, Power BI",5,B.Sc
+34,Student_34,"Scikit-learn, SQL, Machine Learning, Java, Docker, Statistics, Excel",0,B.Sc
+35,Student_35,"Java, Scikit-learn, FastAPI, Power BI, Git",4,M.Sc
+36,Student_36,"Deep Learning, Machine Learning, MySQL, Flask",4,B.Tech
+37,Student_37,"HTML, JavaScript, Flask, Docker, Power BI, SQL",2,B.Sc
+38,Student_38,"OpenCV, Pandas, Spring Boot, NumPy",5,B.Tech
+39,Student_39,"Excel, JavaScript, Docker, CSS, Flask, NumPy",1,M.Tech
+40,Student_40,"Python, FastAPI, Power BI, PyTorch, Docker, NumPy, Scikit-learn",1,B.Tech
+41,Student_41,"SQL, Linux, NumPy, Pandas, Git, OpenCV, TensorFlow",1,M.Tech
+42,Student_42,"Spring Boot, Pandas, YOLO, PyTorch",2,B.Tech
+43,Student_43,"OpenCV, Java, React, YOLO, Spring Boot, JavaScript",2,B.Tech
+44,Student_44,"Scikit-learn, FastAPI, HTML, SQL",0,M.Sc
+45,Student_45,"Power BI, PyTorch, Docker, CSS, React, Deep Learning",3,M.Tech
+46,Student_46,"SQL, MySQL, Docker, Python, React, JavaScript",5,M.Tech
+47,Student_47,"Docker, Machine Learning, Spring Boot, PyTorch, CSS, MySQL",5,B.Tech
+48,Student_48,"React, TensorFlow, Spring Boot, Docker, PyTorch, YOLO",5,B.Sc
+49,Student_49,"Pandas, Docker, Spring Boot, YOLO, Power BI",1,B.Sc
+50,Student_50,"JavaScript, Python, TensorFlow, Power BI, Pandas, Docker, HTML",4,B.Sc
+51,Student_51,"Git, Statistics, Spring Boot, Pandas, React, Linux, FastAPI",5,B.Tech
+52,Student_52,"React, Spring Boot, Java, CSS, PyTorch, Machine Learning",1,B.Sc
+53,Student_53,"Statistics, Pandas, Flask, Python, SQL",1,M.Sc
+54,Student_54,"Git, Docker, Java, HTML",1,M.Sc
+55,Student_55,"YOLO, NumPy, Flask, Java, Python, Deep Learning, Docker",1,M.Tech
+56,Student_56,"SQL, JavaScript, NumPy, Deep Learning, Git, Flask, Spring Boot",5,B.Sc
+57,Student_57,"CSS, Power BI, React, Docker, JavaScript, Git, FastAPI",5,M.Sc
+58,Student_58,"Scikit-learn, Excel, NumPy, Java, Statistics, React, Linux",5,M.Tech
+59,Student_59,"Git, Machine Learning, MySQL, TensorFlow, NumPy, Scikit-learn",2,B.Sc
+60,Student_60,"Flask, NumPy, YOLO, MySQL",1,M.Tech
+61,Student_61,"Docker, PyTorch, JavaScript, Git",3,B.Tech
+62,Student_62,"Docker, YOLO, Excel, HTML, MySQL",0,M.Sc
+63,Student_63,"Python, OpenCV, TensorFlow, YOLO, Docker, JavaScript, Java",4,M.Tech
+64,Student_64,"NumPy, Scikit-learn, Docker, Linux, Python, YOLO, PyTorch",5,M.Sc
+65,Student_65,"Git, Flask, CSS, JavaScript, Python",3,B.Tech
+66,Student_66,"Java, Docker, Flask, Git",1,B.Tech
+67,Student_67,"YOLO, PyTorch, Pandas, Git, Excel, Spring Boot",3,B.Sc
+68,Student_68,"Scikit-learn, Machine Learning, Linux, Python, JavaScript, SQL, OpenCV",1,B.Tech
+69,Student_69,"Excel, Python, NumPy, Pandas",0,M.Tech
+70,Student_70,"Flask, Linux, Spring Boot, Deep Learning, HTML",1,M.Sc
+71,Student_71,"Excel, OpenCV, FastAPI, CSS, MySQL, Deep Learning",1,B.Sc
+72,Student_72,"HTML, Python, TensorFlow, Spring Boot",3,M.Sc
+73,Student_73,"Machine Learning, HTML, MySQL, Java, NumPy",0,B.Sc
+74,Student_74,"Statistics, HTML, SQL, OpenCV",4,M.Sc
+75,Student_75,"Machine Learning, React, Java, PyTorch, Python, Docker",3,B.Tech
+76,Student_76,"OpenCV, Java, Git, MySQL, Flask, Docker, FastAPI",5,B.Sc
+77,Student_77,"Git, Docker, Power BI, HTML, Scikit-learn, PyTorch, NumPy",0,B.Sc
+78,Student_78,"NumPy, Excel, Git, HTML, CSS, YOLO, PyTorch",0,M.Sc
+79,Student_79,"FastAPI, Linux, Pandas, OpenCV, Scikit-learn, PyTorch",2,B.Sc
+80,Student_80,"React, Pandas, Machine Learning, NumPy",5,M.Sc
+81,Student_81,"JavaScript, Excel, NumPy, MySQL, Linux, Java, Spring Boot",3,B.Tech
+82,Student_82,"TensorFlow, NumPy, YOLO, MySQL",1,B.Sc
+83,Student_83,"Linux, JavaScript, React, OpenCV, Docker, Excel",2,B.Sc
+84,Student_84,"Scikit-learn, TensorFlow, Statistics, NumPy, Deep Learning, Pandas, PyTorch",0,M.Tech
+85,Student_85,"Pandas, Power BI, Linux, Scikit-learn, HTML",4,B.Sc
+86,Student_86,"Pandas, TensorFlow, NumPy, OpenCV",1,B.Sc
+87,Student_87,"MySQL, JavaScript, Flask, Scikit-learn",0,B.Tech
+88,Student_88,"MySQL, Flask, Java, Linux, Deep Learning, Python",4,B.Sc
+89,Student_89,"Linux, Git, PyTorch, FastAPI, SQL, Scikit-learn, Statistics",0,B.Tech
+90,Student_90,"Linux, Machine Learning, HTML, Java, Spring Boot, SQL, Flask",1,B.Sc
+91,Student_91,"NumPy, Deep Learning, JavaScript, Excel",3,M.Tech
+92,Student_92,"Git, Statistics, TensorFlow, HTML, Docker, Power BI, MySQL",4,B.Tech
+93,Student_93,"Excel, Pandas, Java, Scikit-learn",5,B.Tech
+94,Student_94,"NumPy, FastAPI, JavaScript, Machine Learning, Python",3,M.Sc
+95,Student_95,"TensorFlow, SQL, NumPy, Statistics, MySQL, Git, Machine Learning",5,M.Tech
+96,Student_96,"Statistics, Java, HTML, Spring Boot, Pandas, Docker",0,M.Tech
+97,Student_97,"Scikit-learn, Flask, Machine Learning, SQL, FastAPI",2,B.Sc
+98,Student_98,"Deep Learning, Git, MySQL, TensorFlow, YOLO, Scikit-learn, React",4,M.Sc
+99,Student_99,"Machine Learning, CSS, SQL, Docker, PyTorch, Excel, Scikit-learn",0,B.Tech
+100,Student_100,"Spring Boot, HTML, Python, Excel, Scikit-learn",4,B.Tech
